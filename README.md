@@ -33,7 +33,7 @@ This system allows you to manage orders, manage the menu, generate sales reports
 | User Data | ![Dashboard](screenshots/blesscoffee_user.jpg) |
 | Reports | ![Menu](screenshots/blesscoffee_report.jpg) |
 | Add new item / promotion | ![Reports](screenshots/blesscoffee_add_art.jpg) |
-| Order Registration | ![Reports](screenshots/blesscoffee_orders.jpg) |
+| Order Registration |  ![Reports](screenshots/blesscoffee_report.jpg)  |
 
 ---
 ## 📄 Nota legal
