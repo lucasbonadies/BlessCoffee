@@ -36,7 +36,7 @@ This system allows you to manage orders, manage the menu, generate sales reports
 | Reports |  ![Reports](screenshots/blesscoffee_report.jpg)  |
 
 ---
-## 📄 Nota legal
+## 📄 Legal
 
 BlessCoffee is a system developed exclusively for commercial use by Bless Coffee.
 All code, design, and logic of the system are protected by copyright.
